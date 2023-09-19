@@ -4,10 +4,10 @@ This contains a list, if not storage of, the semantic artefacts (or knowledge or
 ## Inventory list of semantic artefacts (sample)
 
 **From overarching project [https://purl.org/space-ontology](https://purl.org/space-ontology)**
-- The Astronomical Environment Ontology. 
-- The Orbital Space Environment Domain Reference Ontology Suite.
+- The [Astronomical Environment Ontology](https://github.com/rrovetto/Astronomical-Environment-Ontology). 
+- The Orbital [Space Environment Domain Reference Ontology Suite](https://github.com/rrovetto/Orbital-Space-Ontology-Project).
   - The Space Situational Awareness Ontology.
-  - The Orbital Debris Ontology. 
+  - The [Orbital Debris Ontology](https://github.com/rrovetto/The-Orbital-Debris-Ontology). 
   - The Orbit Ontology.
   - The Astronomical/Gravitational/Celestial Orbit Ontology.
 - IVOA vocabularies and ontologies
