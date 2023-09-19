@@ -1,4 +1,4 @@
-# Astroportal
+# Astroportal / AstroPortal
 
 I present AstroPortal (or Astroportal), a platform for presenting and storing knowledge organization systems (KOS) for space-related topics. KOS include: controlled vocabularies, taxonomies, ontologies, knowledge graphs, etc. Space-related topics include: astronomy, astronautics, space science, etc.
 
