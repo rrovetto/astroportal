@@ -1,14 +1,15 @@
 (under construction) 
 This contains a list, if not storage of, the semantic artefacts (or knowledge organization systems) that AstroPortal can present and store.
 
-## Inventory list of semantic artefacts
+## Inventory list of semantic artefacts (sample)
 
-- The Astronomical Environment Ontology. See https://purl.org/space-ontology
-- The Orbital Space Environment Domain Reference Ontology Suite. See https://purl.org/space-ontology
--   The Space Situational Awareness Ontology. See https://purl.org/space-ontology
--   The Orbital Debris Ontology. See https://purl.org/space-ontology
--   The Orbit Ontology. See https://purl.org/space-ontology
--   The Astronomical/Gravitational/Celestial Orbit Ontology. See https://purl.org/space-ontology
+**From overarching project [https://purl.org/space-ontology](https://purl.org/space-ontology)**
+- The Astronomical Environment Ontology. 
+- The Orbital Space Environment Domain Reference Ontology Suite.
+- - The Space Situational Awareness Ontology. 
+- - The Orbital Debris Ontology. 
+- - The Orbit Ontology.
+- - The Astronomical/Gravitational/Celestial Orbit Ontology.
 
  
 ## Author
