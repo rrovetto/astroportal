@@ -8,7 +8,7 @@ This contains a list, if not storage of, the semantic artefacts (or knowledge or
 - The Orbital [Space Environment Domain Reference Ontology Suite](https://github.com/rrovetto/Orbital-Space-Ontology-Project).
   - The Space Situational Awareness Ontology.
   - The [Orbital Debris Ontology](https://github.com/rrovetto/The-Orbital-Debris-Ontology). 
-  - The Orbit Ontology.
+  - The Orbit Ontology Design Pattern.
   - The Astronomical/Gravitational/Celestial Orbit Ontology.
 - IVOA vocabularies and ontologies
 - ...
