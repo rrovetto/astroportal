@@ -4,7 +4,7 @@ I present AstroPortal (or Astroportal), a platform for presenting and storing kn
 
 ## Works
 - "AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics" (or title variants), Robert J. Rovetto
-  - [Submitted to IJCKG 2021](https://github.com/rrovetto/rrovetto/blob/b73c71f5829a8be74dc6b63c5e382ec3d6dc21b9/affiliations-and-work/papers/astroportal/PROOF_ideation_astroportal_Rovetto_2021Submission_1.JPG)  
+  - [Submitted to IJCKG 2021](https://github.com/rrovetto/rrovetto/blob/b73c71f5829a8be74dc6b63c5e382ec3d6dc21b9/affiliations-and-work/papers/astroportal/PROOF_ideation_astroportal_Rovetto_2021Submission_1.JPG) [See this also](https://github.com/rrovetto/rrovetto/blob/f7de8dc5d1334c9daaf449e2a52e8faef6b24a49/affiliations-and-work/papers/astroportal/PROOF_ideation_astroportal_Rovetto_2021Submission_2.JPG)
 
 ## Status  
 - As an unfunded personal project to date, formal support is needed to develop: financial support, employment, work collaborations, studyship options, business development, etc.
