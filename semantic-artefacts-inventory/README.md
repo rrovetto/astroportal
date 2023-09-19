@@ -6,10 +6,10 @@ This contains a list, if not storage of, the semantic artefacts (or knowledge or
 **From overarching project [https://purl.org/space-ontology](https://purl.org/space-ontology)**
 - The Astronomical Environment Ontology. 
 - The Orbital Space Environment Domain Reference Ontology Suite.
-- - The Space Situational Awareness Ontology. 
-- - The Orbital Debris Ontology. 
-- - The Orbit Ontology.
-- - The Astronomical/Gravitational/Celestial Orbit Ontology.
+  - The Space Situational Awareness Ontology.
+  - The Orbital Debris Ontology. 
+  - The Orbit Ontology.
+  - The Astronomical/Gravitational/Celestial Orbit Ontology.
 
  
 ## Author
