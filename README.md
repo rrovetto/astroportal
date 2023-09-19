@@ -2,6 +2,9 @@
 
 I present AstroPortal (or Astroportal), a platform for presenting and storing knowledge organization systems (KOS) for space-related topics. KOS include: controlled vocabularies, taxonomies, ontologies, knowledge graphs, etc. Space-related topics include: astronomy, astronautics, space science, etc.
 
+## Works
+- "AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics", Robert J. Rovetto
+
 ## Status  
 - As an unfunded personal project to date, formal support is needed to develop: financial support, employment, work collaborations, studyship options, business development, etc.
 
