@@ -8,6 +8,7 @@ I present AstroPortal (or Astroportal), a platform for presenting and storing kn
 
 ## Status  
 - As an unfunded personal project to date, formal support is needed to develop: financial support, employment, work collaborations, studyship options, business development, etc.
+- [Click here for evidence of history/ideation] (https://docs.google.com/document/d/1RHi0eVzcCROwWmRBLHx_AwooBWoXdcaZ/edit?usp=drive_link&ouid=111552135481476528005&rtpof=true&sd=true)
 
 ## Support
 - If you find value in my work, [donations are welcome via PayPal](https://tinyurl.com/donateViaPayPalrr) or [via this GoGetFunding webpage](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
