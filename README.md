@@ -1,6 +1,6 @@
 # Astroportal / AstroPortal
 
-An interactive repository for outerspace topics is described. It may go by the name of 'AstroPortal' (or Astroportal), 'SpacePortal', 'AstroHub', etc. It is a potential platform for presenting and storing knowledge organization systems (KOS) for space-related topics. KOS include: controlled vocabularies, taxonomies, ontologies, knowledge graphs, etc. Space-related topics include: astronomy, astronautics, space science, etc.
+An interactive repository for outerspace topics is described. It may go by the name of 'AstroPortal' (or Astroportal), 'SpacePortal', 'AstroHub', etc. Scoping decision will help determine the name. The portal (one or many) is a potential platform for presenting and storing knowledge organization systems (KOS) for space-related topics. KOS include: controlled vocabularies, taxonomies, ontologies, knowledge graphs, etc. Space-related topics include: astronomy, astronautics, space science, etc.
 
 ## Works
 - "[AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics](https://arxiv.org/abs/2309.10288)" (or title variants), Robert J. Rovetto
@@ -15,7 +15,7 @@ An interactive repository for outerspace topics is described. It may go by the n
 - [Employment opportunities & work collaborations are desired. Click here to schedule a meeting](https://tinyurl.com/hm8wu2sa). 
 
 ## Considerations
-Purpose, Accessibility, Feasibility, Maintenance, and Security are some considerations. The degree of specificity is impotant: generic vs. specific with regard to scope, topic, type of knowledge organization system (semantic artifacts such as ontologies, thesauri, etc.), ownership, etc. If developing multiple repository portals, one may be specific to a group or organization, another may be to a discipline with no bias for the org. or owner of the uploaded KOSs, and so on. The implementation may or may not use existing technologies from industry or other groups, such as OntoPortal. 
+Purpose, Accessibility, Feasibility, Maintenance, and Security are some considerations. This includes desired functions. The degree of specificity is impotant: generic vs. specific with regard to scope, topic, type of knowledge organization system (semantic artifacts such as ontologies, thesauri, etc.), ownership, etc. If developing multiple repository portals, one may be specific to a group or organization, another may be to a discipline with no bias for the org. or owner of the uploaded KOSs, and so on. The implementation may or may not use existing technologies from industry or other groups, such as OntoPortal. 
 
 ## Author
 [Robert J. Rovetto](https://orcid.org/0000-0003-3835-7817)
