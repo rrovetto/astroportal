@@ -4,7 +4,8 @@ An interactive repository for outerspace topics is described. It may go by the n
 
 ## Works
 - "[AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics](https://arxiv.org/abs/2309.10288)" (or title variants), Robert J. Rovetto
-  - [Submitted to IJCKG 2021](https://github.com/rrovetto/rrovetto/blob/b73c71f5829a8be74dc6b63c5e382ec3d6dc21b9/affiliations-and-work/papers/astroportal/PROOF_ideation_astroportal_Rovetto_2021Submission_1.JPG) 
+  - [Submitted to IJCKG 2021](https://github.com/rrovetto/rrovetto/blob/b73c71f5829a8be74dc6b63c5e382ec3d6dc21b9/affiliations-and-work/papers/astroportal/PROOF_ideation_astroportal_Rovetto_2021Submission_1.JPG)
+ 
 ## Historical Ideation
 - I wrote a paper before 2021.
 - I shared (via GoogleDocs) a draft in 2021 with John Graybeal of OntoPortal, asking how I can find support for this
