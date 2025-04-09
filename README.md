@@ -40,6 +40,6 @@ rrovetto(at)terpalum.umd.edu
 Attribution is required. Cite as: Rovetto, Robert J., "AstroPortal", https://github.com/rrovetto/astroportal/
 
 ## Copyright
-© 2023, Robert John Rovetto. All right reserved.
+© 2025, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
 No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
