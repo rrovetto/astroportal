@@ -10,7 +10,7 @@ An interactive repository for outerspace topics is described. It may go by the n
 - I wrote a paper before 2021.
 - I shared (via GoogleDocs) a draft in 2021 with John Graybeal of OntoPortal, asking how I can find support for this
 - As a member of IVOA Astronomy semantic working group, in [2022 I expressed](https://wiki.ivoa.net/twiki/bin/view/IVOA/SemanticsCalls-5) similar ideas and gave presentation. This was before there was any interest in the portal idea. 
-- In 2023 I was made aware of a presentation by the current chair of the IVOA working group, a presentation on using OntoPortal to make a repository with the same name as my idea and paper. I communicated it to the relevant persons. I was [added to their presentation](https://wiki.ivoa.net/twiki/bin/view/IVOA/SemanticsCalls-5) where I presented one slide my prior idea. In correspondences with them, I made it clear of my long-standing effort to work and find support for these things,  interest in formal work collaborations together, and need for opportunity.
+- In 2023 I was made aware, by Clement Jonquet of OntoPortal, of a presentation by the current chair of the IVOA working group, a presentation on using OntoPortal to make a repository with the same name as my idea and paper. I communicated it to the relevant persons. I was [added to their presentation](https://wiki.ivoa.net/twiki/bin/view/IVOA/SemanticsCalls-5) where I presented one slide my prior idea. In correspondences with them, I made it clear of my long-standing effort to work and find support for these things,  interest in formal work collaborations together, and need for opportunity.
 - In April 2024, I was made aware of an EU-funded project by the same. In the interim, I was not contacted or invited.
  
 ## Status
