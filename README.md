@@ -12,10 +12,11 @@ An interactive repository for outerspace topics is described. It may go by the n
 - As a member of IVOA Astronomy semantic working group, in [2022 I expressed](https://wiki.ivoa.net/twiki/bin/view/IVOA/SemanticsCalls-5) similar ideas and gave presentation. This was before there was any interest in the portal idea. 
 - In 2023 I was made aware, by Clement Jonquet of OntoPortal, of a presentation by the current chair of the IVOA working group, a presentation on using OntoPortal to make a repository with the same name as my idea and paper. I communicated it to the relevant persons. I was [added to their presentation](https://wiki.ivoa.net/twiki/bin/view/IVOA/SemanticsCalls-5) where I presented one slide my prior idea. In correspondences with them, I made it clear of my long-standing effort to work and find support for these things,  interest in formal work collaborations together, and need for opportunity.
 - In April 2024, I was made aware of an EU-funded project by the same. In the interim, I was not contacted or invited.
+- [Click here for evidence of ideation](https://docs.google.com/document/d/1RHi0eVzcCROwWmRBLHx_AwooBWoXdcaZ/edit?usp=drive_link&ouid=111552135481476528005&rtpof=true&sd=true)(request permission). [Sample](https://github.com/rrovetto/rrovetto/blob/f7de8dc5d1334c9daaf449e2a52e8faef6b24a49/affiliations-and-work/papers/astroportal/PROOF_ideation_astroportal_Rovetto_2021Submission_2.JPG)
+
  
 ## Status
 - As an unfunded personal project to date, formal support is needed to develop: financial support, employment, work collaborations, studyship options, business development, etc. 
-- [Click here for evidence of history/ideation](https://docs.google.com/document/d/1RHi0eVzcCROwWmRBLHx_AwooBWoXdcaZ/edit?usp=drive_link&ouid=111552135481476528005&rtpof=true&sd=true)(request permission). [Sample](https://github.com/rrovetto/rrovetto/blob/f7de8dc5d1334c9daaf449e2a52e8faef6b24a49/affiliations-and-work/papers/astroportal/PROOF_ideation_astroportal_Rovetto_2021Submission_2.JPG)
 
 ## Support
 - If you find value in my work, [donations are welcome via PayPal](https://tinyurl.com/donateViaPayPalrr) or [via this GoGetFunding webpage](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
