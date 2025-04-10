@@ -7,6 +7,7 @@ An interactive repository for outerspace topics is described. It may go by the n
   - [Submitted to IJCKG 2021](https://github.com/rrovetto/rrovetto/blob/b73c71f5829a8be74dc6b63c5e382ec3d6dc21b9/affiliations-and-work/papers/astroportal/PROOF_ideation_astroportal_Rovetto_2021Submission_1.JPG)
  
 ## Historical Ideation
+- Email correspondence to former supervisor about collaborating and finding support for this (and other) projects
 - I wrote a paper before 2021.
 - I shared (via GoogleDocs) a draft in 2021 with John Graybeal of OntoPortal, asking how I can find support for this
 - As a member of IVOA Astronomy semantic working group, in [2022 I expressed](https://wiki.ivoa.net/twiki/bin/view/IVOA/SemanticsCalls-5) similar ideas and gave presentation. This was before there was any interest in the portal idea. 
