@@ -1,6 +1,6 @@
 # AstroPortal / SpacePortal 
 
-An interactive repository for outerspace topics is described. It may go by the name of 'AstroPortal' (or Astroportal), 'SpacePortal', 'AstroHub', etc. Scoping decision will help determine the name. The portal (one or many) is a potential platform for presenting and storing knowledge organization systems (KOS) for space-related topics. KOS include: controlled vocabularies, taxonomies, ontologies, knowledge graphs, etc. Space-related topics include: astronomy, astronautics, space science, etc. This work is part of a broader long-standing project on AI [conceptual, semantic & AI knowledge modeling approaches for space](https://ontospace.wordpress.com) 
+An interactive repository for outerspace topics is described. It may go by the name of 'AstroPortal' (or Astroportal), 'SpacePortal', 'AstroHub', etc. Scoping decision will help determine the name. The portal (one or many) is a potential platform for presenting and storing [knowledge organization systems (KOS) for space-related topics](https://ontospace.wordpress.com). KOS include: controlled vocabularies, taxonomies, ontologies, knowledge graphs, etc. Space-related topics include: astronomy, astronautics, space science, etc. This work is part of a broader long-standing project on AI [conceptual, semantic & AI knowledge modeling approaches for space](https://ontospace.wordpress.com) 
 
 <p align="center">
  <img src="https://github.com/rrovetto/astroportal/blob/fe64646e6aa0dcf407aa3fa13630770789ab4885/images/SpacePortalDomainPortals_Rovetto_v1.jpg">
