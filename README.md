@@ -22,7 +22,7 @@ Purpose/use-cases, Accessibility, Feasibility, Maintenance, and Security are som
 
 ## Historical Ideation (Sample. Evidence on request)
 - 11 May 2020 Email correspondence to a former university supervisor about collaborating and finding support for this project.
-- I wrote a paper before 2021.
+- I wrote a paper before 2021. Submitted draft to conferences/journals for consideration.
 - 2021 - I shared (via GoogleDocs) a draft with Dr. John Graybeal of OntoPortal, asking about finding support and partners for this. 
 - As a participant of the IVOA Astronomy Semantic Working group, in [2022 I expressed](https://wiki.ivoa.net/twiki/bin/view/IVOA/SemanticsCalls-5) similarly, and gave a presentation on additional project concepts some to develop IVOA vocabulary products. NOTE: This was before anyone in the group had interest in the idea. 
 - In 2023 I was made aware of a presentation by the chair of the IVOA working group, a presentation on using the tool OntoPortal to make the repository (as I describe) with the same name as my idea and paper.
@@ -31,8 +31,8 @@ Purpose/use-cases, Accessibility, Feasibility, Maintenance, and Security are som
 - Some time after the presentation, I followed-up via email to the same person, expressing once again goal of collaboartive work together, concerns regarding the IP context, and desire to be involved in their next steps.
 - In these conversations they expression possible paid work, but nothing concrete and nothing forthcoming. 
 - In April 2024, after I followed-up with the coordinator of OntoPortal, the coordinator made me aware of a EU-funded project (as of Jan 2025) by the same person (the chair of the WG).
-- Nov 2025, I observe their preprint on their project.
-- Distressingly, they did not contact or invite me to join the effort. Naturally this has raised ethical and IP concerns. I hope this will be resolved in ethical and mutually-beneficial manner. It would be inclusive and ethical to formally partner with those who have expressed interest and need for opportunity in what is a mutual interest, and in what is demonstrably of historical ideation by the person needing opportunity. That is consistent with the so-called open data and open science meme, but also consistent with commonsense morality and sense of social responsibility.   
+- Distressingly, they did not contact or invite me to join the effort. Naturally this has raised ethical and IP concerns. I hope this will be resolved in ethical and mutually-beneficial manner.
+- It is reasonable to hold that it would be both inclusive and ethical to afford a formal partnership, especially given the circumstances. Time and again my ideas have been ahead of their time, and others have either run with them or, despite seeing my historical ideation and efforts and expressions of interest, others in stable economic situations have not afforded a partnership. Those in need would benefit if those who have opportunity can extend opportunity, especially if there is demonstrable grounds for it. That is consistent with the so-called open data and open science meme, but also consistent with commonsense morality and sense of social responsibility.   
 - [Click here for sample evidence of ideation](https://docs.google.com/document/d/1RHi0eVzcCROwWmRBLHx_AwooBWoXdcaZ/edit?usp=drive_link&ouid=111552135481476528005&rtpof=true&sd=true)(request permission). [Sample](https://github.com/rrovetto/rrovetto/blob/f7de8dc5d1334c9daaf449e2a52e8faef6b24a49/affiliations-and-work/papers/astroportal/PROOF_ideation_astroportal_Rovetto_2021Submission_2.JPG)
 
 
