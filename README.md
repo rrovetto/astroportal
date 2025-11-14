@@ -23,7 +23,7 @@ Purpose/use-cases, Accessibility, Feasibility, Maintenance, and Security are som
 ## Historical Ideation (Sample. Evidence on request)
 - 11 May 2020 Email correspondence to a former university supervisor about collaborating and finding support for this project.
 - I wrote a paper before 2021. Submitted draft to conferences/journals for consideration.
-- 2021 - I shared (via GoogleDocs) a draft with Dr. John Graybeal of OntoPortal, asking about finding support and partners for this. 
+- 2021 - I shared (via GoogleDocs) a draft with a manager of OntoPortal, asking about finding support and partners for this. 
 - As a participant of the IVOA Astronomy Semantic Working group, in [2022 I expressed](https://wiki.ivoa.net/twiki/bin/view/IVOA/SemanticsCalls-5) similarly, and gave a presentation on additional project concepts some to develop IVOA vocabulary products. NOTE: This was before anyone in the group had interest in the idea. 
 - In 2023 I was made aware of a presentation by the chair of the IVOA working group, a presentation on using the tool OntoPortal to make the repository (as I describe) with the same name as my idea and paper.
 - - I was alarmed for obvious reasons and communicated it to the relevant persons.
